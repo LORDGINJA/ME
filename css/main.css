@@ -4,17 +4,15 @@ body{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-  font-family: 'PT Sans';
-	background-color: #FFFFF4;
-	color: #000;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	background-attachment: fixed;
 	min-height: 100%
 	-webkit-text-size-adjust: none;
-  overflow-x: hidden;
+  	overflow-x: hidden;
 }
 
 div{
-	border: 1px solid green;
 	padding: 20px;
 	color: lightgreen;
 }
@@ -29,7 +27,7 @@ div{
 	font-size: 32px;
 	border: none;
 	padding: 10px;
-	color: yellow;
+	color: turquoise;
 }
 
 #title1{
@@ -41,17 +39,34 @@ div{
 }
 
 .aboutmestuff{
-	border: 5px solid black;
+	border: 2px solid black;
 	padding: 10px;
 	font-size: 18px;
+	color: white;
+	
 }
 
-#heading{
+
+
+.heading{
+	font-size: 25px;
+	color: gold;
 	text-align: left;
 }
 
-.list-group-item{
-	border-style: 1px solid black;
-	margin: 30px 0px 30px 0px;
+.aboutmeparagraphs{
+	border: 5px solid black;
+	margin: 5px;
+	background-color: black;
+	opacity: 0.5;
+	border-radius: 15px;
 }
+
+.list-group-item{
+	margin: 30px 0px 30px 0px;
+	background-color: blue;
+	color: turquoise;
+	font-size: 20px;
+}
+
 

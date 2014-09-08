@@ -1,5 +1,18 @@
 
 body{	
+	background-image: url(../images/waterfall.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	background-attachment: fixed;
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+}
+
+#body1{	
 	background-image: url(../images/turtle2.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -35,7 +48,7 @@ div{
 	font-size: 25px;
 	border: none;
 	padding: 10px;
-	color: lightblue;
+	color: green;
 }
 
 .aboutmestuff{
@@ -58,7 +71,7 @@ div{
 	border: 5px solid black;
 	margin: 5px;
 	background-color: black;
-	opacity: 0.5;
+	opacity: 0.8;
 	border-radius: 15px;
 }
 
@@ -67,6 +80,10 @@ div{
 	background-color: blue;
 	color: turquoise;
 	font-size: 20px;
+}
+
+img{
+	border-radius: 15px;
 }
 
 

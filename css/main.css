@@ -137,7 +137,12 @@ footer{
 color: white;
 background-color: black;
 text-align: right;
+text-align: bottom;
 padding: 10px;
+}
+
+#mogulpara{
+	display: inline-block;
 }
 
 .header-banner-top .primary-wrapper {

@@ -141,6 +141,10 @@ text-align: bottom;
 padding: 10px;
 }
 
+li{
+	margin: 0px 0px 0px 30px;
+}
+
 #mogulpara{
 	display: inline-block;
 }

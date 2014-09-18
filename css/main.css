@@ -145,6 +145,23 @@ li{
 	margin: 0px 0px 0px 30px;
 }
 
+@media screen and (max-width:959px) {
+	#headingbutton{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width:640px) {
+	#headingbutton{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width:320px) {
+	#headingbutton{
+		width: 100%;
+	}
+}
 #mogulpara{
 	display: inline-block;
 }

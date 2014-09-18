@@ -3058,7 +3058,7 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-sm,
 .btn-group-sm > .btn {
-  color: white;
+  color: black;
   background-color: black;
 }
 .btn-xs,

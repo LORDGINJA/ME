@@ -149,16 +149,25 @@ li{
 	#headingbutton{
 		width: 100%;
 	}
+	.site-title{
+		width: 100%;
+	}
 }
 
 @media screen and (max-width:640px) {
 	#headingbutton{
 		width: 100%;
 	}
+	.site-title{
+		width: 100%;
+	}
 }
 
 @media screen and (max-width:320px) {
 	#headingbutton{
+		width: 100%;
+	}
+	.site-title{
 		width: 100%;
 	}
 }

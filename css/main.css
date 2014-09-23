@@ -165,6 +165,9 @@ li{
 	.site-title{
 		width: 100%;
 	}
+	nav{
+		width: 100%
+	}
 }
 
 @media screen and (max-width:640px) {
@@ -174,6 +177,9 @@ li{
 	.site-title{
 		width: 100%;
 	}
+	nav{
+		width: 100%
+	}
 }
 
 @media screen and (max-width:320px) {
@@ -182,6 +188,9 @@ li{
 	}
 	.site-title{
 		width: 100%;
+	}
+	nav{
+		width: 100%
 	}
 }
 #mogulpara{

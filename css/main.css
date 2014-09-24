@@ -197,6 +197,91 @@ li{
 	display: inline-block;
 }
 
+
+#carousel1{
+	background-image: url(../images/falcon.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
+#carousel2{
+	background-image: url(../images/alligator.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
+#carousel3{
+	background-image: url(../images/tiger.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
+#carousel4{
+	background-image: url(../images/whaleshark.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
+#carousel5{
+	background-image: url(../images/spider.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
+#carousel6{
+	background-image: url(../images/snake.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'PT Sans';
+	min-height: 100%
+	-webkit-text-size-adjust: none;
+  	overflow-x: hidden;
+  	height: 650px;
+  	border-radius: 15px;
+}
+
 .header-banner-top .primary-wrapper {
   margin: 0 auto;
   max-width: 900px;

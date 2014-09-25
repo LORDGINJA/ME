@@ -293,6 +293,11 @@ li{
   	border-radius: 15px;
 }
 
+#music{
+	border-radius: 0px;
+	padding: 10px 10px -10px 10px;
+}
+
 .header-banner-top .primary-wrapper {
   margin: 0 auto;
   max-width: 900px;

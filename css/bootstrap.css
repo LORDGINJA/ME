@@ -3237,10 +3237,12 @@ tbody.collapse.in {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
+    height: 100%;
   }
   .navbar-right .dropdown-menu-left {
     right: auto;
     left: 0;
+    height: 100%;
   }
 }
 .btn-group,
